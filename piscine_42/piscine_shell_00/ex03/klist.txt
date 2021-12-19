@@ -1,0 +1,6 @@
+Credentials cache: API:633F0D74-A759-4253-BADF-3719264EE5F6
+        Principal: rlachau@42NICE.FR
+
+  Issued                Expires             Flags    Principal
+Sep  6 17:54:32 2021  Sep  7 03:54:28 2021  FPIA   krbtgt/42NICE.FR@42NICE.FR
+c2r4p2%

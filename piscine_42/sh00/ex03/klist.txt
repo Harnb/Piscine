@@ -1,0 +1,5 @@
+redentials cache: API:4716E9C2-E207-41A4-9ABE-15A050632B36
+        Principal: donolfo@42NICE.FR
+
+  Issued                Expires             Flags    Principal
+Sep  6 17:08:37 2021  Sep  7 03:08:21 2021  FPIA   krbtgt/42NICE.FR@42NICE.FR
